@@ -28,3 +28,6 @@ For example:
 ```
 python3 sarps.py 192.168.1.24 192.168.1.17 --verbose
 ```
+
+### Original credits go to:
+ExhaustedBiped who so kindly dumped this on top of my head. Thanks man!
